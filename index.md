@@ -6,5 +6,5 @@ layout: default
 BFH IT-Security Student
 
 2504 Biel/Bienne
-#### Email: info@alessandroallio.com
-#### PGP Fingerprint: 005D 4CD9 1892 B68A EDF4 16F9 49CE 204D 3CA2 B68A
+#### Email: alessandro.allio@gmail.com
+#### PGP Fingerprint: 469C C8C4 7BDA E012 E80E  F41B D720 B9C2 B954 1470
